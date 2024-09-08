@@ -110,7 +110,8 @@ Ensure you have the following installed on your machine:
 ## Screenshots
 
 ### 1. Home Page
-![Home Page]("C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-08 131932.png")
+![Home Page]![Screenshot 2024-09-08 131932](https://github.com/user-attachments/assets/32855374-6d8c-4b45-b6a9-2d9844cdff4f)
+)
 
 ### 2. Availability Form
 ![Availability Form](screenshots/availability-form.png)
