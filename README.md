@@ -114,7 +114,8 @@ Ensure you have the following installed on your machine:
 )
 
 ### 2. Availability Form
-![Availability Form](screenshots/availability-form.png)
+![Availability Form](![Screenshot 2024-09-08 131816](https://github.com/user-attachments/assets/4a513c76-c5e1-4f33-8473-265eff850550)
+)
 
 ### 3. Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
