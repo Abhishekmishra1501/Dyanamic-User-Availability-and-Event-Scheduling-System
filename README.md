@@ -110,7 +110,7 @@ Ensure you have the following installed on your machine:
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page]("C:\Users\asus\Pictures\Screenshots\Screenshot 2024-09-08 131932.png")
 
 ### 2. Availability Form
 ![Availability Form](screenshots/availability-form.png)
